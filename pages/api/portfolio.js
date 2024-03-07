@@ -56,7 +56,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Cairo Opera House",
-        url: "https://firmsanad.invogen.co/",
+        url: "https://www.cairoopera.org/en/",
         image: "projects/opera.png",
         projectDetail: "The Cairo Opera House website is a renowned platform attracting visitors worldwide. it facilitates ticket bookings and provides updates on artists, theaters,  theaters , and Festivals. Users can also check ticket availability and sold-out events.",
         technologiesUsed: [
