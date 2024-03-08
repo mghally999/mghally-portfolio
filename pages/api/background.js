@@ -68,7 +68,7 @@ const background = [
                 role: 'Frontend Developer',
                 url: 'https://www.3segypt.com/',
                 desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '10/2021 - 10/2023',
+                year: '10/2021 - 2/2024',
                 location: 'Cairo, Egypt'
             }
         ]
