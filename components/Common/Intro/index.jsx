@@ -8,7 +8,7 @@ import Tools from "./Tools";
 import Skills from "./Skills";
 import Image from "next/image";
 import { NAME, DESIGNATION, SOCIAL_LINKS } from "../../../constants/constants";
-import Conan from "../../../public/images/Mohammed Ghally.png";
+import Conan from "../../../public/images/Ghally.png";
 
 const Intro = () => {
   return (
