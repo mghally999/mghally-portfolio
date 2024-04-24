@@ -6,7 +6,7 @@ const background = [
                 "title": "AUC - The American University In Cairo",
                 "degree": "Introduction To Programming Using C++",
                 "detail": "An in-depth degree course at the American University In Cairo focusing on programming fundamentals and problem-solving using C++ in computer systems.",
-                "year": "2018-2019"
+                "year": "2018 - 2019"
             },
             {
                 "id": 1,
