@@ -64,11 +64,29 @@ const background = [
         expCards: [
             {
                 id: 1,
+                title: 'Artway Decor',
+                role: 'Senior Web Developer | Digital Marketer',
+                url: 'https://artwaydecor.com/',
+                desc: "Crafted, maintained, and launched production code for client websites within Artway Decor's web development division, serving illustrious brands such as KFC, McDonald's, Hardeez, Roberto Cavalli, Pizza Hut, and others. This involvement underscored the company's commitment to delivering top-tier digital experiences across diverse industry sectors.",
+                year: 'March 2024 - May 2024',
+                location: 'Dubai, United Arab Emirates'
+            },
+            {
+                id: 2,
                 title: '3s - Secured Smart Systems',
+                role: 'Senior Frontend Developer',
+                url: 'https://www.3segypt.com/',
+                desc: "Build, style, and ship high-quality websites, design systems, mobile apps, and digital experiences for a diverse array of projects for clients including Cairo Opera House, Confederation of African Football, Qatar National Bank, Public Prosecution, Egyptair, Fawry, WE Telecom and more. Provide leadership within engineering department through close collaboration, knowledge shares, and spearheading the development of internal tools.",
+                year: 'Oct 2021 - Feb 2024',
+                location: 'Cairo, Egypt'
+            },
+            {
+                id: 3,
+                title: 'Gratsia Tours',
                 role: 'Frontend Developer',
                 url: 'https://www.3segypt.com/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '10/2021 - 2/2024',
+                desc: "Build and maintain critical components used to construct Gratsia Tour's frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.",
+                year: 'Oct 2018 - Aug 2021',
                 location: 'Cairo, Egypt'
             }
         ]

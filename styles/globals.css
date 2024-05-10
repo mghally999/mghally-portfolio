@@ -154,6 +154,10 @@ body {
   /* Change the icon color when the input is focused */
 }
 
+.custom-width {
+  width: 6rem !important;
+}
+
 .custom-height {
   height: 6rem !important;
 }

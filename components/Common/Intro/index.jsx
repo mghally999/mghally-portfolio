@@ -8,7 +8,7 @@ import Tools from "./Tools";
 import Skills from "./Skills";
 import Image from "next/image";
 import { NAME, DESIGNATION, SOCIAL_LINKS } from "../../../constants/constants";
-import Conan from "../../../public/images/Ghally.png";
+import Conan from "../../../public/images/mghally.jpg";
 
 const Intro = () => {
   return (
@@ -16,7 +16,7 @@ const Intro = () => {
       {/* fixed at top */}
       <div className="headerr z-50 absolute bg-MidNightBlack backdrop-blur-sm inset-y-0 h-48 top-0 flex items-center justify-center w-full flex-col px-4 gap-y-4">
         <Image
-          className="w-20 h-20 rounded-full custom-height"
+          className="w-20 h-20 rounded-full custom-width custom-height"
           src={Conan}
           alt="profile picture"
         />
