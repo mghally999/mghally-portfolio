@@ -85,7 +85,7 @@ const background = [
                 title: 'Gratsia Tours',
                 role: 'Frontend Developer',
                 url: 'https://www.3segypt.com/',
-                desc: "Build and maintain critical components used to construct Gratsia Tour's frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.",
+                desc: "Build and maintain critical components used to construct Gratsia Tour's frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in landing page design and user experience optimization.",
                 year: 'Oct 2018 - Aug 2021',
                 location: 'Cairo, Egypt'
             }
